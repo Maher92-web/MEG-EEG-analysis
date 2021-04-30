@@ -1,5 +1,5 @@
 # MEG-EEG-analysis
-This repo contains a source code analysis of EEG data in MNE-Python environment.~
+This repo contains a source code analysis of EEG data in MNE-Python environment.
 
 
 Required packages:
